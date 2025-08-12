@@ -405,3 +405,5 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+## [Zhang rui](https://github.com/truongnhue)
+Member of Chinese bar,also a patent attorney in China. i graduated from engineering. 
